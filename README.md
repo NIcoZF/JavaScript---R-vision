@@ -8,4 +8,4 @@ ensuite
 
 ```$> open index.html```
 
--puis modifier le scrip de 1 à 5_
+_puis modifier le scrip de 1 à 5_
